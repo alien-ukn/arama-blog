@@ -11,13 +11,13 @@ last_name: Арама
 
 # Status emoji
 status:
-  icon: 🏊‍♀️🚴‍♀️🏃🏽
+  icon: 🇷🇺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Триатлет
+role: Триатлет 🏊‍♀️🚴‍♀️🏃
 
 # Organizations/Affiliations to show in About widget
 organizations:
