@@ -22,10 +22,10 @@ role: Триатлет
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Lyatsky Team
-    url: [https://www.stanford.edu/](https://clubs.russiarunning.com/club/Lyatskiy_team)
+    url: https://clubs.russiarunning.com/club/Lyatskiy_team
 
 # Short bio (displayed in user profile at end of posts)
-bio: плотвец, триатлет
+bio: пловец, триатлет
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
