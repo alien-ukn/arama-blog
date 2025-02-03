@@ -33,11 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:anna@arama.team'
     label: E-mail Me
- - icon: brands/instagram
+  - icon: brands/instagram
     url: https://www.instagram.com/anna_arama
- - icon: rss
+  - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
