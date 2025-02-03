@@ -1,44 +1,39 @@
 ---
 # Display name
-title: Arama Anna
+title: Arama Anna / Анна Арама
 
 # Name pronunciation (optional)
 name_pronunciation: Arama Anna
 
 # Full name (for SEO)
-first_name: Anna
-last_name: Arama
+first_name: Анна
+last_name: Арама
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏊‍♀️🚴🏻‍♀️🏃🏻‍♀️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Триатлет
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lyatsky Team
+    url: [https://www.stanford.edu/](https://clubs.russiarunning.com/club/Lyatskiy_team)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: плотвец, триатлет
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:anna@arama.team'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.instagram.com/anna_arama
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,6 +49,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Очень быстры триатлет
