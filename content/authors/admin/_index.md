@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Arama Anna / Анна Арама
+title: Анна Арама
 
 # Name pronunciation (optional)
 name_pronunciation: Arama Anna
