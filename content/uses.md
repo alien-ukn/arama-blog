@@ -13,11 +13,11 @@ I often get asked about what software or hardware I use, so this page will serve
 
 ## Website
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
+- [Hugo Blox!!!!!!!!!](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
 
 ## Editor + Terminal
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
+- [Visual Studio Code!!!!](https://code.visualstudio.com/) is my current editor
 - Chrome is my main browser
 - iTerm2 is my terminal
 
