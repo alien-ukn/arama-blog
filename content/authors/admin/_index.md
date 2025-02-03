@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Arama Anna
+title: Арама Анна
 
 # Name pronunciation (optional)
 name_pronunciation: Arama Anna
@@ -47,4 +47,4 @@ highlight_name: true
 website: ""
 ---
 
-Очень быстры триатлет
+Очень быстры триатлет!
