@@ -5,8 +5,8 @@ date: 2025-02-03
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - соревнования
+  - плвавание
 image:
   caption: "арама на тумбе"
 ---
